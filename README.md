@@ -1,3 +1,4 @@
+# Elorie Bernard-Lacroix
 
 ## Data Visualization Application (D3, JavaScript, React)
 This one is a work in progress :)
