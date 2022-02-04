@@ -1,5 +1,3 @@
-# Elorie Bernard-Lacroix
-
 Hello! I am a student at Alexander Mackenzie High School. I'm so glad you're here and I hope you'll enjoy exploring what I've worked on so far :)
 
 ## Data Visualization Application (D3, JavaScript, React)
