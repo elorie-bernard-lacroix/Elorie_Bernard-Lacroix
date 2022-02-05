@@ -1,4 +1,3 @@
-# Elorie Bernard-Lacroix
 
 ## My Articles
 - [Prime Editing: Another Step Towards an Unrecognizable Future of Genetic Engineering](https://medium.com/@eloriel0310/prime-editing-another-step-towards-an-unrecognizable-future-of-genetic-engineering-fde7b74ab30f)
