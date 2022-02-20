@@ -3,7 +3,7 @@
 - [Prime Editing: Another Step Towards an Unrecognizable Future of Genetic Engineering](https://medium.com/@eloriel0310/prime-editing-another-step-towards-an-unrecognizable-future-of-genetic-engineering-fde7b74ab30f)
 - More to follow! 
 
-## Fabulous Flashcards (Java)
+## Flashcards Program (Java)
 This program performs similar functions to other applications/websites like Quizlet. Here are its funcationalities:
 - The user can enter/add data, modify data, and delete cards from the array
 - The user can sort the cards by term/category or randomize them and display all of the cards in the current array (in their current order).
@@ -14,8 +14,8 @@ This program performs similar functions to other applications/websites like Quiz
 To access the files click [here](https://github.com/elorie-bernard-lacroix/fabulous-flashcards).
 
 ## Data Visualization Application (D3, JavaScript, React)
-This one is a work in progress :)
+This project is still in progress. Please check again at a later time for updates!
 
 ## Whatsapp Clone Android App (Firebase, Java, Android Studio)
-This one is also a work in progress :)
+This project is still in progress. Please check again at a later time for updates!
 
